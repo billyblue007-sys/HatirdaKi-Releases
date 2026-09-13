@@ -1,0 +1,78 @@
+HatirdaKi V1.0 Code 5 release provenance
+
+Release date:
+2026-09-13 Europe/Istanbul
+
+GitHub release tag:
+v1.0.0
+
+APK asset:
+HatirdaKi-V1.0-Code5-BKDEV.apk
+
+APK SHA-256:
+e0dee3cd79dc0703c79e4e9022fc89960b3079f4c00dae74ee4e4fcf4bfe6ac4
+
+APK size:
+7156295 bytes
+
+Android package:
+com.next.tabletki
+
+Version:
+versionName 1.0
+versionCode 5
+minSdk 30
+targetSdk 36
+compileSdk 36
+
+Private source repository:
+https://github.com/billyblue007-sys/Tabletki
+
+Private source branch:
+stabilization/v12
+
+Exact source commit:
+6a190928c2c58fcbc91adb4e8a57817ed0120dde
+
+Embedded APK VCS metadata:
+repositories {
+  system: GIT
+  local_root_path: "$PROJECT_DIR"
+  revision: "6a190928c2c58fcbc91adb4e8a57817ed0120dde"
+}
+
+Build environment:
+OpenJDK 17.0.14
+Gradle 8.11.1
+Android Gradle Plugin 8.10.1
+Kotlin 2.0.20
+
+Verification performed on an independent clean clone of the exact source commit:
+./gradlew --no-configuration-cache testDebugUnitTest testReleaseUnitTest lintDebug lintRelease assembleDebug assembleRelease
+
+Result:
+BUILD SUCCESSFUL in 6m 55s
+105 actionable tasks: 105 executed
+
+APK verification:
+Package com.next.tabletki
+versionName 1.0
+versionCode 5
+minSdk 30
+targetSdk 36
+APK Signature Scheme v2 verified
+Number of signers: 1
+Android INTERNET permission: absent
+
+Not included in this public release:
+Android source code
+AAB files
+R8 mapping files
+Signing keys or signing configuration
+OAuth material
+Backups, logs, user data, or health data
+
+Notes:
+Connected Android tests and physical-device acceptance were not rerun in this publication step
+because adb was not available in the shell PATH and no disposable adb target was used. The release
+is the direct GitHub APK pilot asset, not a Google Play submission.

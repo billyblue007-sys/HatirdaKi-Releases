@@ -1,0 +1,26 @@
+HatirdaKi V1.0 Code 5 public certificate information
+
+APK asset:
+HatirdaKi-V1.0-Code5-BKDEV.apk
+
+Package:
+com.next.tabletki
+
+Version:
+versionName 1.0
+versionCode 5
+
+Signer:
+Number of signers: 1
+Signature scheme: APK Signature Scheme v2
+Certificate DN: CN=BKDev, OU=Tabletki, O=BKDev, C=TR
+
+Certificate fingerprints:
+SHA-256: 3c2f00c56fe1ac714fc94d34822e4fc65bb1113fbed821eaedda11b10dda23ab
+SHA-1: e0c1b77468e456f0cd5625536ce97040e60db822
+MD5: 38f6ff2929b46ec05418406ed5ef0bea
+
+Public key fingerprints:
+SHA-256: f2e6a64513d12ac51a86e2a5cd1ebf169228739a3dca408eb631c380b7f547ad
+SHA-1: 45b60367a50488ad7e26e7ff601430fc474e46a1
+MD5: 113066df4d31e9aee9ca1fe79cc29745
