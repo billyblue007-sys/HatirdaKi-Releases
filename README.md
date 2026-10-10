@@ -1,5 +1,8 @@
 # HatirdaKi Releases
 
+[![Toplam indirme](https://img.shields.io/github/downloads/billyblue007-sys/HatirdaKi-Releases/total?label=Toplam%20indirme&color=2e7d32)](https://github.com/billyblue007-sys/HatirdaKi-Releases/releases)
+[![Son sürüm indirme](https://img.shields.io/github/downloads/billyblue007-sys/HatirdaKi-Releases/latest/total?label=Son%20surum%20indirme&color=1565c0)](https://github.com/billyblue007-sys/HatirdaKi-Releases/releases/latest)
+
 This public repository contains HatirdaKi APK release metadata and GitHub Release assets only.
 
 The Android application source code is private. Do not add Android source, signing material, AAB
